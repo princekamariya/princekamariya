@@ -14,7 +14,7 @@
 I am Prins Kamariya, a passionate full stack web developer from India. I am a second-year undergraduate student at Devang Patel Institute of Advance Technology and Research(Charusat University - Changa). I am currently mainly focused towards Full Stack Web Development and have done my projects and internship under the same. My other interests aside from Full Stack Development is Data Structures and Algorithms and Web 3.0.
 
 
- <img align="right" alt="GIF" src="./images/code.gif" width="400" height="220" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="250" height="180" />
   
 - 🌱  I’m currently learning  **React and Web3.0**  
 - 🤝  I’m looking for  **Programming Comunity To Gain Insight About the Corporate World!**
@@ -46,12 +46,12 @@ I am Prins Kamariya, a passionate full stack web developer from India. I am a se
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prins2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prins2003" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prins2003&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prins2003&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=prins2003&count_private=true&show_icons=true&theme=react" alt="Prince's github stats"/>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Yash621)
+![](https://visitor-badge.glitch.me/badge?page_id=prins2003)
 
 <hr>
 
