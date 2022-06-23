@@ -53,9 +53,6 @@ I am Prins Kamariya, a passionate full stack web developer from India. I am a se
 <img src="https://visitor-badge.glitch.me/badge?page_id=prins2003" alt="Visitor's count"/>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=prins2003&align="center")
-
-
 <hr>
 
 
