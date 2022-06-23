@@ -37,7 +37,9 @@ I am Prins Kamariya, a passionate full stack web developer from India. I am a se
 
 ![](https://activity-graph.herokuapp.com/graph?username=prins2003&theme=react-dark&hide_border=true&area=true)
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prins2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prins2003" /> 
+</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prins2003&theme=tokyonight" />    <img src="https://github-readme-stats.vercel.app/api?username=prins2003&count_private=true&show_icons=true&theme=tokyonight" alt="Prince's github stats"/>
 
