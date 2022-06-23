@@ -48,13 +48,4 @@ I am Prins Kamariya, a passionate full stack web developer from India. I am a se
 
 <hr>
 
-```
- “Have the courage to follow your heart and intuition. They 
-   somehow already know what you truly want to become.
-      Everything else is secondary.”
-                                                         ― Steve Jobs
-```
-
-<hr>
-
 
