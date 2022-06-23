@@ -14,7 +14,7 @@
 I am Prins Kamariya, a passionate full stack web developer from India. I am a second-year undergraduate student at Devang Patel Institute of Advance Technology and Research(Charusat University - Changa). I am currently mainly focused towards Full Stack Web Development and have done my projects and internship under the same. My other interests aside from Full Stack Development is Data Structures and Algorithms and Web 3.0.
 
 
- <img align="right" alt="GIF" src="./images/code.gif" width="300" height="230" />
+ <img align="right" alt="GIF" src="./images/code.gif" width="300" height="210" />
  
 - 🔭 I’m currently working on Achieving My Milestone:)
 - 🌱  I’m currently learning  **React and Web3.0**  
