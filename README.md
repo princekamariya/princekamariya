@@ -15,11 +15,13 @@ I am Prins Kamariya, a passionate full stack web developer from India. I am a se
 
 
  <img align="right" alt="GIF" src="./images/code.gif" width="250" height="180" />
-  
+ 
+- 🔭 I’m currently working on Achieving My Milestone:)
 - 🌱  I’m currently learning  **React and Web3.0**  
 - 🤝  I’m looking for  **Programming Comunity To Gain Insight About the Corporate World!**
 - 💼 any freelance work? do reach, [email](mailto:kamriyaprince@gmail.com) :)
 - 💬 Ask me about anything, I am always happy to help :)
+- ⚡ Fun fact Programming language/Framework are just tools
 
 
 ## Connect with me:
