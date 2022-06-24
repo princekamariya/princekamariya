@@ -4,7 +4,7 @@
 ![banner.png](./images/banner.png)
 <hr>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=नमस्ते+(Namaste)+🙏+Nice+To+Meet+You;I'm+Prins+%F0%9F%98%84,+A+CSE+Student;A+Full+Stack+Web+Developer+%F0%9F%92%BB;Loves+To+Build+Projects+%F0%9F%9B%A0;And+A+Problem+Solver+%F0%9F%95%B5">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=नमस्ते+(Namaste)+🙏,+Nice+To+Meet+You;I'm+Prins+%F0%9F%98%84,+A+CSE+Student;A+Full+Stack+Web+Developer+%F0%9F%92%BB;Loves+To+Build+Projects+%F0%9F%9B%A0;And+A+Problem+Solver+%F0%9F%95%B5">
 </p>
 
 <hr>
