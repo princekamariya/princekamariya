@@ -21,7 +21,7 @@ I am Prins Kamariya, a passionate full stack web developer from India. I am a se
 - 🤝  I’m looking for  **Programming Comunity To Gain Insight About the Corporate World!**
 - 💼 any freelance work? do reach, [email](mailto:kamriyaprince@gmail.com) :)
 - 💬 Ask me about anything, I am always happy to help :)
-- ⚡ Fun fact Programming language/Framework are just tools
+- ⚡ Fun fact You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 
 
 ## Connect with me:
