@@ -50,7 +50,7 @@ I am Prins Kamariya, a passionate full stack web developer from India. I am a se
 </p>
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=prins2003" alt="Visitor's count"/>
+<img src="https://komarev.com/ghpvc/?username=prins2003&label=Profile%20views&color=0e75b6&style=flat" alt="prins2003" />
 </p>
 
 <hr>
