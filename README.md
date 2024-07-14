@@ -3,25 +3,6 @@
 
 ![banner.png](./images/banner.png)
 <hr>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=नमस्ते+(Namaste)+🙏,+Nice+To+Meet+You;I'm+Prins+%F0%9F%98%84,+A+CSE+Student;A+Full+Stack+Web+Developer+%F0%9F%92%BB;Loves+To+Build+Projects+%F0%9F%9B%A0;And+A+Problem+Solver+%F0%9F%95%B5">
-</p>
-
-<hr>
-
-## About
-
-I am Prins Kamariya, a passionate full stack web developer from India. I am a second-year undergraduate student at Devang Patel Institute of Advance Technology and Research(Charusat University - Changa). I am currently mainly focused towards Full Stack Web Development and have done my projects and internship under the same. My other interests aside from Full Stack Development is Data Structures and Algorithms and Web 3.0.
-
-
- <img align="right" alt="GIF" src="./images/code.gif" width="300" height="210" />
- 
-- 🔭 I’m currently working on Achieving My Milestone:)
-- 🌱  I’m currently learning  **React and Web3.0**  
-- 🤝  I’m looking for  **Programming Comunity To Gain Insight About the Corporate World!**
-- 💼 any freelance work? do reach, [email](mailto:kamriyaprince@gmail.com) :)
-- 💬 Ask me about anything, I am always happy to help :)
-- ⚡ Fun fact: You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 
 
 ## Connect with me:
@@ -40,19 +21,6 @@ I am Prins Kamariya, a passionate full stack web developer from India. I am a se
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princekamariya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="princekamariya" /> 
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=princekamariya&theme=tokyonight" />    
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=princekamariya&count_private=true&show_icons=true&theme=tokyonight" alt="Prince's github stats"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=prins2003&label=Profile%20views&color=0e75b6&style=flat" alt="prins2003" />
-</p>
-
 <hr>
 
 
